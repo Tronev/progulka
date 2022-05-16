@@ -1,0 +1,494 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://185.84.108.232" ftp_rootfolder="//www" exportTarget="FTP" domain="progulka74.ru" resolutions="1x" timestamp="1558688398449">
+  <folder name="css">
+    <file name="site_global.css" crc="3833311510"/>
+    <file name="index.css" crc="3763053077" ref="index"/>
+    <file name="iefonts_index.css" crc="345394616" ref="index"/>
+    <file name="pm.css" crc="192060184" ref="pm"/>
+    <file name="vm.css" crc="3842346794" ref="vm"/>
+    <file name="reg.css" crc="267794409" ref="reg"/>
+    <file name="nomq_reg.css" crc="4224752808" ref="reg"/>
+    <file name="iefonts_reg.css" crc="3824530138" ref="reg"/>
+  </folder>
+  <folder name="assets">
+    <file name="гп-2017---путевой-листок.pdf" crc="206738706" seo="true" mt="1495476095000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>pm:phone>vm:phone>reg:index:pm:vm:reg"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>pm:phone>vm:phone>reg:index:pm:vm:reg"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>pm:phone>vm:phone>reg:index:pm:vm:reg"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>pm:phone>vm:phone>reg:index:pm:vm:reg"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>pm:phone>vm:phone>reg:index:pm:vm:reg"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>pm:phone>vm:phone>reg:index:pm:vm:reg"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>pm:phone>vm:reg"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4176945849" ref="phone>index:index"/>
+    <file name="logo-gp2-u8438-fr.png" crc="476425167" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>pm:phone>vm:index:reg"/>
+    <file name="trig1.jpg" crc="428586464" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trig2.jpg" crc="4169888508" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map3.jpg" crc="4105583777" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="climbing2.jpg" crc="496549514" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route1.jpg" crc="71902641" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route2-2.jpg" crc="163312998" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route3.jpg" crc="120629344" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stuff2.jpg" crc="3800721515" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money2.jpg" crc="467431878" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road_sign2.jpg" crc="3897717068" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="becycle3-u11613-fr.jpg" crc="4268523032" ref="phone>index"/>
+    <file name="becycle4.jpg" crc="3810618253" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_fst1.jpg" crc="4283866350" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manaraga1.jpg" crc="490297283" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="abris1.jpg" crc="3797905169" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limontir1.jpg" crc="172410004" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chbkrolik_cherny.jpg" crc="4231875991" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="az-tur.jpg" crc="3772218902" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kosmos.jpg" crc="4076051604" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotip1.jpg" crc="4209216881" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sedykh.jpg" crc="416145308" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uralgufk.jpg" crc="289363424" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-gp4.png" crc="134918978" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg5-mobile.jpg" crc="490781371" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tel1.png" crc="4017518991" ref="phone>pm:phone>vm">
+      <caption webpage="pm" alt=""/>
+      <caption webpage="pm" alt=""/>
+      <caption webpage="vm" alt=""/>
+      <caption webpage="vm" alt=""/>
+    </file>
+    <file name="bg1.jpg" crc="19496320" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-gp2.png" crc="467079744" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="4194651309" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smile3.png" crc="3808268414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trig5.jpg" crc="361093526" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="preview3.jpg" crc="3970414894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face1.jpg" crc="4201080410" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8ftp19z5lb8-crop-u6676.jpg" crc="51281526" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="k36mb_nbp0i-crop-u6736.jpg" crc="4107694776" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="lo2n6_kiwkc-crop-u4844.jpg" crc="419621872" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="n501ows4yz8-crop-u6756.jpg" crc="386883757" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="6pkg413wfeg-crop-u6656.jpg" crc="461426016" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="2zdczfguyko-crop-u6816.jpg" crc="120056593" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="jo3arnj2y4w-crop-u6716.jpg" crc="4081783363" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="x5ghuc21oeu-crop-u6776.jpg" crc="4279245137" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="dgafkd8-0we-crop-u6696.jpg" crc="214872261" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="zxehenngw8s-crop-u6796.jpg" crc="358122354" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="8ftp19z5lb8.jpg" crc="445455054" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="lo2n6_kiwkc.jpg" crc="15107294" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="6pkg413wfeg.jpg" crc="4216529406" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="jo3arnj2y4w.jpg" crc="117690739" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="dgafkd8-0we.jpg" crc="95037407" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="k36mb_nbp0i.jpg" crc="523638888" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="n501ows4yz8.jpg" crc="3934958268" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="2zdczfguyko.jpg" crc="3992047110" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="x5ghuc21oeu.jpg" crc="481707507" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="zxehenngw8s.jpg" crc="437876121" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="nav_left.png" crc="284200911" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_right.png" crc="319929925" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_button.png" crc="4061513709" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="82002_900.jpg" crc="372075744" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="game2.jpg" crc="435350635" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kp-azkzltws.jpg" crc="265365876" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="ljfkat1j-ia.jpg" crc="3886211821" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="zbphu4lkfam.jpg" crc="4235867928" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="l9c5pei0lum.jpg" crc="4146050729" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="ls0bxgbr274.jpg" crc="4237061888" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="lscfp7kjdzo.jpg" crc="4073774556" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="mkin3hyzrok.jpg" crc="3866459720" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="ssaountrndu.jpg" crc="290257556" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="c--tfosaatk.jpg" crc="52342802" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="-pdqqxew4fu.jpg" crc="4201484628" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="kp-azkzltws-crop-u7474.jpg" crc="229521370" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="lscfp7kjdzo-crop-u7554.jpg" crc="3849977076" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="ljfkat1j-ia-crop-u7514.jpg" crc="3771961995" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="mkin3hyzrok-crop-u7574.jpg" crc="3875753868" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="zbphu4lkfam-crop-u7659.jpg" crc="455243606" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="ssaountrndu-crop-u7614.jpg" crc="4234408220" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="l9c5pei0lum-crop-u7494.jpg" crc="213307337" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="c--tfosaatk-crop-u7634.jpg" crc="3962123037" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="ls0bxgbr274-crop-u7534.jpg" crc="261852064" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="-pdqqxew4fu-crop-u7594.jpg" crc="3899022305" seo="true" ref="index">
+      <caption webpage="index" alt="Городская прогулка"/>
+    </file>
+    <file name="kp_check2.jpg" crc="8402818" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="becycle3.jpg" crc="4231107710" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="владимир-бартых.jpg" crc="300392410" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="оля-нидергаус.jpg" crc="31060853" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="александр-почуев.jpg" crc="4041687263" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="юлия-закирова.jpg" crc="227179081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="юля-салимоненко.jpg" crc="4116385678" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="виталий-петров.jpg" crc="241120469" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="андрей-лаптев.jpg" crc="4066007923" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дарья-лямкина.jpg" crc="469961703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дмитрий-полиевский.jpg" crc="4286969891" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лиза-говорухина.jpg" crc="4130415485" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="галина-казакова.jpg" crc="4180312153" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="нина-михайлова.jpg" crc="4004070117" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ольга-лаврова.jpg" crc="4069330584" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ульяна-обухова.jpg" crc="4276893825" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вылазки74 лого vk.jpg" crc="4098588696" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_chel1.jpg" crc="495198051" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_арджуна.jpg" crc="293490366" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_logo__12112013082554.jpg" crc="291260261" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_лента.jpg" crc="4171297412" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_парадельта.jpg" crc="3806339681" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8_шервуд.jpg" crc="47700568" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9_шпфк.jpg" crc="178406713" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_begovely_strider_school_logo_yellow_new.jpg" crc="243685250" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_logo_mesto_sily_150.png" crc="3993528303" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="experimentus_150.png" crc="3820395541" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kinomax_150.png" crc="3942685228" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kviz_pliz_33_150.png" crc="3866102697" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proturis_150.png" crc="4237348873" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1555996337804_150.png" crc="3764933855" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lkowy8qqo-m_150.jpg" crc="213585621" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="гп_150.png" crc="168956408" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg3.jpg" crc="12716357" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2_2.jpg" crc="306482648" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7iiycydlede_новый размер.jpg" crc="4116267559" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v805x8brol8.jpg" crc="355789052" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0ghhohfo9f8.jpg" crc="272708947" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4808.jpg" crc="96980696" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="82002_9002.jpg" crc="138028901" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xcu9dq8fsjo.jpg" crc="350219596" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0ghhohfo9f8-u11605-fr.jpg" crc="3979758832" ref="phone>index"/>
+    <file name="вылазки74 лого vk_новый размер.jpg" crc="98684970" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sverdlovskaya_prigorodnaya_kompania.jpg" crc="4095245999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b1vnihejxki.jpg" crc="4085195854" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="urcfyomsgc8.jpg" crc="4044738776" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon.png" crc="3854189862" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1au-wf1dln0.jpg" crc="4155082647" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tvodljh9qo8.jpg" crc="4291838861" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oqsh89wytvu.jpg" crc="3957158103" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4808-5.jpg" crc="191649756" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="vm.css" crc="156774191" ref="phone>vm"/>
+      <file name="nomq_vm.css" crc="518197532" ref="phone>vm"/>
+      <file name="reg.css" crc="58418656" ref="phone>reg"/>
+      <file name="nomq_reg.css" crc="3824530138" ref="phone>reg"/>
+      <file name="iefonts_reg.css" crc="370865466" ref="phone>reg"/>
+      <file name="index.css" crc="340601313" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3802970609" ref="phone>index"/>
+      <file name="pm.css" crc="443505221" ref="phone>pm"/>
+      <file name="nomq_pm.css" crc="307076530" ref="phone>pm"/>
+    </folder>
+    <file name="index.html" crc="4118868804" seo="true" mt="1558688098168" redirect="true"/>
+    <file name="pm.html" crc="4118470763" mt="1495483188787" redirect="true"/>
+    <file name="vm.html" crc="4094916800" mt="1495483207667" redirect="true"/>
+    <file name="reg.html" crc="4058294776" mt="1495483235569" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3800969769" seo="true" mt="1558688357626" redirect="true"/>
+  <file name="pm.html" crc="3882615152" mt="1495483128212" redirect="true"/>
+  <file name="vm.html" crc="484197819" mt="1495483138259" redirect="true"/>
+  <file name="reg.html" crc="395897114" mt="1495468838398" redirect="true"/>
+  <site>
+    <asset filename="гп-2017---путевой-листок.pdf" muse_href="upload:U14034"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <textLinkStyle className="ts-------------------1" uid="U2894"/>
+    <textLinkStyle className="ts-----------12X" uid="U2929"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Главная" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U110" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="Шаблон-A" master="U62" uid="U72">
+        <breakpoint uid="U98" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1160" minwidth="961" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1160" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Пешеходные маршруты" filename="pm.html" muse_href="page:U2315" master="U72">
+        <breakpoint uid="U2305" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Велосипедный маршрут" filename="vm.html" muse_href="page:U3783" master="U72">
+        <breakpoint uid="U3738" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Регистрация" filename="reg.html" muse_href="page:U13712" master="U72">
+        <breakpoint uid="U13702" maxwidth="1160" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="Главная" filename="index.html" muse_href="page:U8042" master="U8021">
+        <breakpoint uid="U8032" maxwidth="320" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="Шаблон-A" master="U8011" uid="U8021">
+        <breakpoint uid="U8022" maxwidth="380" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U8011">
+        <breakpoint uid="U8012" maxwidth="380" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Пешеходные маршруты" filename="pm.html" muse_href="page:U12931" master="U8021">
+        <breakpoint uid="U12921" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U13046" maxwidth="736" minwidth="415" squishy="true"/>
+      </page>
+      <page name="Велосипедный маршрут" filename="vm.html" muse_href="page:U13189" master="U8021">
+        <breakpoint uid="U13158" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U13172" maxwidth="736" minwidth="415" squishy="true"/>
+      </page>
+      <page name="Регистрация" filename="reg.html" muse_href="page:U13758" master="U8021">
+        <breakpoint uid="U13748" maxwidth="320" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
